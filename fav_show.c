@@ -1,5 +1,5 @@
 /* Nested for loops to compare data values. The program asks you to provide the number of movies you
-have watched. It then loops as many times asking for the name of each movie and a corresponding 
+have watched. It then loops as many times asking for the name of each movie and a corresponding
 rating from you. Finally, it reports your favorite and worst movies with their respective ratings */
 
 
