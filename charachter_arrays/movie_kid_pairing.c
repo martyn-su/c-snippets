@@ -20,8 +20,8 @@ int main()
     char Hero2[34] = "Spiderman";
     char *Hero3="The Incredible Hulk";
     
-    Hero3="Hulk";   //The power of pointers to manipulate strings
-    
+    Hero3="Hulkssssssssssssssssssssssssssssssssssssssssssssssssss";   /*The power of pointers to manipulate strings. Note that using most charachter array methods such as gets() scanf() will lead to memory problems*/
+     
     printf("%s\'s favorite hero is %s.\n", Kid1, Hero1);
     printf("%s\'s favorite hero is %s.\n", Kid2, Hero2);
     printf("%s\'s favorite hero is %s.\n", Kid3, Hero3);
